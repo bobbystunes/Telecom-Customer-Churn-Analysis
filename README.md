@@ -130,7 +130,7 @@ Flexible billing models may attract short-term customers but increase churn risk
 
 ### Top 10 Cities by Customer Count
 
-![Top Cities](dashboard_images/4,png)
+![Top Cities](dashboard_images/4.png)
 
 Findings:
 
