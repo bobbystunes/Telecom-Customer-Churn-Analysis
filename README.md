@@ -1,5 +1,9 @@
 # Telecom Customer Churn Analysis Dashboard
 
+**Project by Brian Benitez **  
+**Published MAY 2024**
+
+
 **Project Type:** Data Analysis / Business Intelligence  
 **Tools Used:** Python (Pandas), Data Cleaning, Feature Engineering, Tableau  
 **Dataset Size:** 7,043 Customers  
@@ -150,6 +154,18 @@ Geographic segmentation enables targeted retention campaigns.
 
 **Insight:**  
 Demographic segmentation can enhance predictive churn modeling.
+
+---
+
+#  Conclusion
+
+Based on the analysis:
+
+1. Focus retention efforts in the first 12–24 months
+2. Promote One-Year and Two-Year contract incentives
+3. Bundle online security and device protection services
+4. Investigate high-churn cities for targeted intervention
+5. Evaluate pricing strategies in Month-to-Month segments
 
 ---
 
