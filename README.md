@@ -50,7 +50,7 @@ Final working dataset: **7,043 customers**
 
  **Overall churn rate ≈ 26.5%**
 
-More than one-quarter of customers have left — representing a significant revenue impact.
+More than one-quarter of customers have left, representing a significant revenue impact.
 
 ---
 
@@ -58,7 +58,7 @@ More than one-quarter of customers have left — representing a significant reve
 
 ![Contract Analysis](dashboard_images/1.PNG)
 
-Month-to-Month customers show significantly higher churn compared to:
+Month to Month customers show significantly higher churn compared to:
 
 - One-Year contracts  
 - Two-Year contracts  
@@ -67,7 +67,7 @@ Month-to-Month customers show significantly higher churn compared to:
 Longer contracts strongly correlate with improved retention.
 
 **Business Implication:**  
-Incentivizing annual or multi-year contracts could reduce churn risk.
+Incentivizing annual or multi year contracts could reduce churn risk.
 
 ---
 
@@ -120,11 +120,8 @@ Flexible billing models may attract short-term customers but increase churn risk
 
 ## Geographic Distribution
 
-### Customer Density by City
 
-![Customer Density by City](dashboard_images/customer_density_city.png)
-
-### Customer Density by Zip Code
+### Customer Density by City & Zip Code
 
 ![Customer Density by Zip Code](dashboard_images/3.PNG)
 
