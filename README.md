@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis Dashboard
 
 **Project by Brian Benitez **  
-**Published MAY 2024**
+**Published NOVEMBER 2024**
 
 
 **Project Type:** Data Analysis / Business Intelligence  
