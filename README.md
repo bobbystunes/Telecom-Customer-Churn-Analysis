@@ -41,7 +41,7 @@ Final working dataset: **7,043 customers**
 
 ## Churn Overview
 
-![Churn Overview](dashboard_images/2.png)
+![Churn Overview](dashboard_images/2.PNG)
 
 - **Total Customers:** 7,043  
 - **Churned:** 1,869  
@@ -56,7 +56,7 @@ More than one-quarter of customers have left — representing a significant reve
 
 ## Contract Type Analysis
 
-![Contract Analysis](dashboard_images/1.png)
+![Contract Analysis](dashboard_images/1.PNG)
 
 Month-to-Month customers show significantly higher churn compared to:
 
@@ -73,7 +73,7 @@ Incentivizing annual or multi-year contracts could reduce churn risk.
 
 ##  Revenue & Tenure Analysis
 
-![Revenue Analysis](dashboard_images/8.png)
+![Revenue Analysis](dashboard_images/8.PNG)
 
 Key observations:
 
@@ -90,7 +90,7 @@ This early period represents the highest financial risk and greatest opportunity
 
 ## Service Usage Analysis
 
-![Service Usage Analysis](dashboard_images/6.png)
+![Service Usage Analysis](dashboard_images/6.PNG)
 
 Service comparison reveals:
 
@@ -105,7 +105,7 @@ Bundling protection/security services may improve customer retention.
 
 ##  Billing & Payment Behavior
 
-![Billing Analysis](dashboard_images/7.png)
+![Billing Analysis](dashboard_images/7.PNG)
 
 Findings include:
 
@@ -126,11 +126,11 @@ Flexible billing models may attract short-term customers but increase churn risk
 
 ### Customer Density by Zip Code
 
-![Customer Density by Zip Code](dashboard_images/3.png)
+![Customer Density by Zip Code](dashboard_images/3.PNG)
 
 ### Top 10 Cities by Customer Count
 
-![Top Cities](dashboard_images/4.png)
+![Top Cities](dashboard_images/4.PNG)
 
 Findings:
 
@@ -145,7 +145,7 @@ Geographic segmentation enables targeted retention campaigns.
 
 ## Customer Demographics
 
-![Customer Demographics](dashboard_images/5.png)
+![Customer Demographics](dashboard_images/5.PNG)
 
 - Majority of customers fall between ages 30–60
 - Dependents and marital status influence churn patterns
